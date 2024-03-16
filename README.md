@@ -59,6 +59,6 @@ We welcome contributions to our projects! Please read the contributing guideline
 This repository is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For any inquiries or further information, please contact [Your Name or Contact Information].
+For any inquiries or further information, please contact.
 
 Thank you for visiting our Deep Learning 2022 repository!
