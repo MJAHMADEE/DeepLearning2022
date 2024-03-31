@@ -1,4 +1,5 @@
 # Deep Learning 2022 🚀
+[![Star DeepLearning2022](https://img.shields.io/badge/Star-DeepLearning2022-ff69b4.svg?style=for-the-badge&logo=github)](https://github.com/MJAHMADEE/DeepLearning2022)
 
 Welcome to Deep Learning 2022! This repository serves as a central hub for various deep learning projects created throughout the year. Explore the table below to dive into each project and discover the innovations and techniques used in deep learning research and applications.
 
