@@ -1,5 +1,17 @@
 # Deep Learning 2022 🚀
-[![Star DeepLearning2022](https://img.shields.io/badge/Star-DeepLearning2022-ff69b4.svg?style=for-the-badge&logo=github)](https://github.com/MJAHMADEE/DeepLearning2022)
+![NLP](https://img.shields.io/badge/-NLP%20💬-blue)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision%20🖼️-blue) 
+![Transformers](https://img.shields.io/badge/-Transformers%20🤖-blue) 
+![PyTorch](https://img.shields.io/badge/-PyTorch%20🔥-blue) 
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning%20📊-blue)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning%20🧠-blue) 
+![GANs](https://img.shields.io/badge/-GANs%20🌌-blue) 
+![Object Detection](https://img.shields.io/badge/-Object%20Detection%20📦-blue)
+![Object Segmentation](https://img.shields.io/badge/-Object%20Segmentation%20🧩-blue) 
+![Image Classification](https://img.shields.io/badge/-Image%20Classification%20🖼️-blue) 
+![CNN](https://img.shields.io/badge/-CNN%20🔳-blue)
+![RNN](https://img.shields.io/badge/-RNN%20🔄-blue)
+![Crypto Prediction](https://img.shields.io/badge/-Crypto%20Prediction%20🔮-blue) 
 
 Welcome to Deep Learning 2022! This repository serves as a central hub for various deep learning projects created throughout the year. Explore the table below to dive into each project and discover the innovations and techniques used in deep learning research and applications.
 
